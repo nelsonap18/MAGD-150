@@ -11,7 +11,7 @@ _I have included 4 lab assignments to view that I created using p5.js._
 * Conditional logic was used with mousePressed() and keyPressed() functions to make the rows change colors and appear and disappear.
 #### Lab #7 - Arrays  
 * Random array values were assigned to a snowflake drawing function to animate multiple copies to resemble a snowstorm.
-* An array value was set to the current mouse position value so a trail of transparent ellipses followed the mouse as it moved. 
+* An array value is set to the current mouse position value so a trail of transparent ellipses follow the mouse as it moves. 
 #### Lab #8 - Images and Text  
 * The content of the images and text are all related to the animated film Walt Disney's _Cinderella_.
 * The mouseX and mouseY variables are used to change the gif's location and one of the image's size as the mouse moves.
