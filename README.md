@@ -2,7 +2,7 @@
 
 **This is Alexa Nelson's repository for MAGD 150, Spring 2021.**    
 _I have included 4 lab assignments that I created using p5.js._  
-[Click Here to go to the repository!](https://github.com/nelsonap18/MAGD-150)
+[Click here to go to the repository!](https://github.com/nelsonap18/MAGD-150)
 
 #### Lab #3 - Variables, Mouse Position, & Math  
 * This lab tracks mouse position as it moves to draw a purple line. 
